@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867051379285",
+    "project_id": "ventevetment-64e0b",
+    "storage_bucket": "ventevetment-64e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867051379285:android:733804983f29faba2d92dc",
+        "android_client_info": {
+          "package_name": "com.example.siyahhii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-AVqoqBJIIKtdIYZwi8QEY1TF2XdSO7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
